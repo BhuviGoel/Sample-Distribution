@@ -1,1 +1,1 @@
-# Sample-Distribution
+# Sample Distribution
